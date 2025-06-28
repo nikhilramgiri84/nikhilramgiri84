@@ -2,8 +2,9 @@
 
 🌟 About Me
 
-Myself Nikhil Shrinivas Ramgiri, a results-driven Data Engineer and Analyst with proven expertise in designing, developing, and delivering enterprise-grade data solutions across finance, insurance, and pharmaceutical domains. My career has been defined by a deep commitment to data integrity, performance optimization, and scalable architectures that drive business value through technology.
-I specialize in the design, automation, and orchestration of modern data pipelines, with hands-on experience across cloud-native platforms like Azure and hybrid data ecosystems. I’ve worked with structured and semi-structured data using a robust tech stack including Python, SQL, PySpark, Databricks, Snowflake, Airflow, and a range of modern data lake and warehousing tools.
+I'm Nikhil Shrinivas Ramgiri — a results-driven Data Engineer & Analyst passionate about turning raw data into meaningful insight and impact. My journey spans across the finance, insurance, and pharmaceutical industries, where I’ve been crafting enterprise-grade data solutions that do more than just “move data” — they drive decisions.
+
+I architect, automate, and orchestrate modern data pipelines, ensuring data integrity, scalability, and performance at every step. Whether it’s building in Azure, crunching numbers in Python and SQL, or transforming lakes into lakes of insight with Databricks, PySpark, Airflow, and Snowflake — I bring together engineering precision with business value.
 
 Languages and Tools:
 
