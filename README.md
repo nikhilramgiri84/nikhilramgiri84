@@ -13,6 +13,5 @@ Languages and Tools:
 💹 Finance and Investment Banking
 Hands-on experience in hedge fund accounting, sovereign wealth fund reporting, and risk analysis.
 
-Skills:
-Python | SQL | R | Tableau | Power BI | Hadoop | Spark | Airflow | Snowflake | Airflow | AWS | Azure | ML Ops
-Machine Learning | Data Analysis | Statistics | Natural Language Processing | Fine-tuning Large Language Models | Agentic AI | Prompt Engineering | A/B Testing | Causal Inference | Hypothesis Testing | Regression Analysis | Big Data | Time Series | Quantitative Analysis | Customer Analytics | Risk Modeling
+📬 Contact Me
+<p align="left"> <a href="https://www.linkedin.com/in/nikhil-ramgiri-/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:nikhilramgiri84@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="tel:9088092372"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/> </a> </p>
