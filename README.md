@@ -1,6 +1,22 @@
 ## Hi there 👋
 
-<!--
+🌟 About Me
+
+Myself Nikhil Shrinivas Ramgiri, a results-driven Data Engineer and Analyst with proven expertise in designing, developing, and delivering enterprise-grade data solutions across finance, insurance, and pharmaceutical domains. My career has been defined by a deep commitment to data integrity, performance optimization, and scalable architectures that drive business value through technology.
+I specialize in the design, automation, and orchestration of modern data pipelines, with hands-on experience across cloud-native platforms like Azure and hybrid data ecosystems. I’ve worked with structured and semi-structured data using a robust tech stack including Python, SQL, PySpark, Databricks, Snowflake, Airflow, and a range of modern data lake and warehousing tools.
+
+Languages and Tools:
+
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge" alt="Seaborn"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel"/> <img src="https://img.shields.io/badge/G%20Suite-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="G-Suite"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Databricks-E0201B?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/> </p>
+
+🏢 Industry & Domain Specializations
+💹 Finance and Investment Banking
+Hands-on experience in hedge fund accounting, sovereign wealth fund reporting, and risk analysis.
+
+Skills:
+Python | SQL | R | Tableau | Power BI | Hadoop | Spark | Airflow | Snowflake | Airflow | AWS | Azure | ML Ops
+Machine Learning | Data Analysis | Statistics | Natural Language Processing | Fine-tuning Large Language Models | Agentic AI | Prompt Engineering | A/B Testing | Causal Inference | Hypothesis Testing | Regression Analysis | Big Data | Time Series | Quantitative Analysis | Customer Analytics | Risk Modeling
+
 **nikhilramgiri84/nikhilramgiri84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
